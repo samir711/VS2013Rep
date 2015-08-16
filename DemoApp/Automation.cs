@@ -12,6 +12,7 @@ namespace DemoApp
         static void Main(String[] args)
         {
             Console.WriteLine("Hello");
+            Console.WriteLine("Feature 1 changes");
         }
     }
     public class Automation
